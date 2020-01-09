@@ -51,5 +51,16 @@ http://localhost:8080/b/5c117316f35b3d1274b7879a/usuarios/{id}
 ```
 http://localhost:8080/b/5c117316f35b3d1274b7879a/usuarios/{id}
 ```
+Para criar os objetos de usuario utilize este modelo no corpo em formato JSON
+```
+{
+	"email":"email@email.com.br",
+	"data_nascimento":"1987-05-26",
+	"nome":"Nome"
+}
+```
+Veja o exemplo feito no Postman:
+<img src="/docs/postmanrequisition.JPG" alt="Painel Postman"/>
+
 ## Testes de repositório e de integração
 O projeto conta com testes de repositório e de integração.
