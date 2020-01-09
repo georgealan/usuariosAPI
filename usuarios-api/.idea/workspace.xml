@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e600405a-e1cb-4804-bb09-026d33bc827f" name="Default Changelist" comment="Fazendo exercicio de" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="usuarios-api" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1R1DQXjUXMydzwN8jqXjVxdj3v2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver&#10;mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/db/migration" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.george.transaction.api.repository" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.algaworks.algamoney.api.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CURSOS\JAVA\AplicationREST\usuarios-api\src\main\resources\db\migration" />
+      <recent name="E:\algamoney-api\src\main\java\com\algaworks\algamoney\api\service\exception" />
+      <recent name="D:\CURSOS\Fullstack-Angular-Spring-Algaworks\Aplicacao-Angular-SpringBoot\backend\algamoney-api\src\main\resources\db\migration" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UsuariosApiApplication">
+    <configuration name="UsuarioEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usuarios-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.george.transaction.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.george.transaction.api" />
+      <option name="MAIN_CLASS_NAME" value="com.george.transaction.api.UsuarioEndpointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioEndpointTest.getUsuariosByIdPasswordIncorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usuarios-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.george.transaction.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.george.transaction.api" />
+      <option name="MAIN_CLASS_NAME" value="com.george.transaction.api.UsuarioEndpointTest" />
+      <option name="METHOD_NAME" value="getUsuariosByIdPasswordIncorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioEndpointTest.listarUsuariosPasswordIncorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usuarios-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.george.transaction.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.george.transaction.api" />
+      <option name="MAIN_CLASS_NAME" value="com.george.transaction.api.UsuarioEndpointTest" />
+      <option name="METHOD_NAME" value="listarUsuariosPasswordIncorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuarioRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usuarios-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.george.transaction.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.george.transaction.api" />
+      <option name="MAIN_CLASS_NAME" value="com.george.transaction.api.UsuarioRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgamoneyApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="algamoney-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.algaworks.algamoney.api.AlgamoneyApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsuariosApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="usuarios-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.george.transaction.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.george.transaction.api.UsuariosApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UsuariosApiApplication" />
+        <item itemvalue="JUnit.UsuarioEndpointTest" />
+        <item itemvalue="JUnit.UsuarioRepositoryTest" />
+        <item itemvalue="JUnit.UsuarioEndpointTest.getUsuariosByIdPasswordIncorrect" />
+        <item itemvalue="JUnit.UsuarioEndpointTest.listarUsuariosPasswordIncorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.17261904" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e600405a-e1cb-4804-bb09-026d33bc827f" name="Default Changelist" comment="" />
+      <created>1568825693291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568825693291</updated>
+      <workItem from="1568825698254" duration="401000" />
+      <workItem from="1568826252407" duration="562000" />
+      <workItem from="1568826893015" duration="4323000" />
+      <workItem from="1568846939408" duration="2156000" />
+      <workItem from="1568849155696" duration="1132000" />
+      <workItem from="1568850833213" duration="745000" />
+      <workItem from="1568899627858" duration="1379000" />
+      <workItem from="1568901109037" duration="5293000" />
+      <workItem from="1568922240774" duration="2958000" />
+      <workItem from="1568985578576" duration="14611000" />
+      <workItem from="1569014082349" duration="4754000" />
+      <workItem from="1569111034853" duration="627000" />
+      <workItem from="1569112539074" duration="6155000" />
+      <workItem from="1569191098300" duration="3999000" />
+      <workItem from="1569257444067" duration="2233000" />
+      <workItem from="1569330710165" duration="89000" />
+      <workItem from="1569330912244" duration="12044000" />
+      <workItem from="1569416693232" duration="6928000" />
+      <workItem from="1569449400949" duration="97000" />
+      <workItem from="1569449540250" duration="6799000" />
+      <workItem from="1569618011674" duration="5284000" />
+      <workItem from="1569728550219" duration="1556000" />
+      <workItem from="1569798309866" duration="2674000" />
+      <workItem from="1569882095964" duration="3824000" />
+      <workItem from="1570054098518" duration="7707000" />
+      <workItem from="1570225200323" duration="3136000" />
+      <workItem from="1570661391298" duration="4575000" />
+      <workItem from="1570828013529" duration="6226000" />
+      <workItem from="1571177258788" duration="7324000" />
+      <workItem from="1571269166785" duration="3055000" />
+      <workItem from="1571358104912" duration="482000" />
+      <workItem from="1572452376954" duration="12635000" />
+      <workItem from="1578062201799" duration="1821000" />
+      <workItem from="1578066141323" duration="1018000" />
+      <workItem from="1578067370841" duration="3483000" />
+      <workItem from="1578073257156" duration="6784000" />
+      <workItem from="1578445206678" duration="116000" />
+      <workItem from="1578445429285" duration="897000" />
+      <workItem from="1578497669700" duration="27024000" />
+      <workItem from="1578531905556" duration="2006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="199" key="#Notifications" timestamp="1578073781245">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="199" key="#Notifications/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578073781245" />
+    <state x="2685" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1578521640405">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2685" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578521640405" />
+    <state x="2469" y="466" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578517193599">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2469" y="466" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578517193599" />
+    <state x="2507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578514576411">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2507" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578514576411" />
+    <state x="2610" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578067865209">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578067865209" />
+    <state width="1528" height="270" key="GridCell.Tab.0.bottom" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.0.center" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.0.left" timestamp="1578534303334">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303334" />
+    <state width="1528" height="270" key="GridCell.Tab.0.right" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.1.bottom" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.1.center" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.1.left" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state width="1528" height="270" key="GridCell.Tab.1.right" timestamp="1578534303335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1528" height="270" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578534303335" />
+    <state x="2381" y="183" key="SettingsEditor" timestamp="1578445245090">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="183" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578445245090" />
+    <state x="2575" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1578531918925">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2575" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578531918925" />
+    <state x="2635" y="243" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578519793245">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2635" y="243" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1578519793245" />
+  </component>
+</project>
